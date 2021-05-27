@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "categoryId": "1",
+      "productName": "ball",
+      "description": "tennis ball",
+      "rating": "1",
+      "price": "120",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "red",
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "productName": "hat",
+      "description": "hat",
+      "rating": "1",
+      "price": "1234",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "white",
+      "reviews": "2",
+      "id": 2
+    }
+  ]
+}

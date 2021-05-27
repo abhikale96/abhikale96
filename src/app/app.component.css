@@ -1,0 +1,12 @@
+.nav-link {
+    color:#ddd!important;
+}
+.navbar-brand{
+    color:#ddd!important;
+}
+@media only screen and (min-width: 1200px) {
+    .foo-height {
+      height: 528px;
+    }
+  }
+
